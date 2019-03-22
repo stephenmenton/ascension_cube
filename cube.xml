@@ -1,0 +1,2469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cube>
+  <cardNames>
+    <cardName name="Prodigal">
+      <type>Hero</type>
+      <cost>1</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Defeat a Monster with (p:4) or less.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Nook Hound">
+      <type>Hero</type>
+      <cost>2</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>1</honor>
+      <text>FATE: When this enters the center row, each player may look at the top card of their deck. They may put it into their discard pile.&lt;hr /&gt;Look at the top card of your deck. You may put it into your discard pile. Draw a card.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Seer of the Forked Path">
+      <type>Hero</type>
+      <cost>2</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Draw a card. You may banish a card in the center row.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Temple Librarian">
+      <type>Hero</type>
+      <cost>2</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Discard a card. If you do, draw two cards.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Arha Sensei">
+      <type>Hero</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Banish a card in your hand. If you do, acquire a Mystic or Heavy Infantry. Add it to your hand.</text>
+      <set>RotF</set>
+    </cardName>
+    <cardName name="Arha Sanctuary">
+      <type>Construct</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>2</honor>
+      <text>When this enters play, put the top card of your deck under this face up. Once per turn, you may swap a card in your hand for the card under Arha Sanctuary.&lt;br /&gt;When Arha Sanctuary leaves play or the game ends, put the card under it into your discard pile.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Elder Skeptic">
+      <type>Hero</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Draw two cards, then discard a card.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Askara of Souls">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain a Soul Gem.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Askara of Fate">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>2</honor>
+      <text>FATE: When this enters the center row, each player may draw a card.&lt;hr /&gt;Draw two cards. Each other player may draw a card. Then you may banish a card in the center row.</text>
+      <set>RotF</set>
+    </cardName>
+    <cardName name="Journeyman Sage">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>2</honor>
+      <text>FATE: When this enters the center row, each player may banish a hero in their hand to acquire a Mystic or Heavy Infantry and add it to their hand.&lt;hr /&gt;Banish a Hero in your hand. If you do, acquire a Hero with Honor value up to one more than that of the banished card and put it in your hand.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Righteous Templar">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Defeat a Monster that costs (p:4) or less without paying its cost.&lt;hr /&gt;Energize (e:3): Instead, defeat any Monster without paying its cost.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Monk of the Lidless Eye">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>2</honor>
+      <text>FATE: When this enters the center row, for each Treasure under this, each player draws a card.&lt;hr /&gt;Draw two cards.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Temple Guardian">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>4</honor>
+      <text>Defeat a Monster with (p:5) or less without paying its cost. If the current event is Enlightened, draw a card.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Tower Askara">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Draw three cards, then discard two cards or one Enlightened card.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Dreamer&apos;s Glass">
+      <type>Construct</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Once per turn, you may put a card in your hand under this face up. If you do, draw a card.&lt;br /&gt;When this leaves play or the game ends, put all cards under it into your discard pile.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Tablet of Time&apos;s Dawn">
+      <type>Construct</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>2</honor>
+      <text>You may banish this Construct to take an additional turn after this one.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Tablet of the Dreamer">
+      <type>Construct</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Energize (e:4): Once this turn, acquire defeat any card in the center row without paying its cost.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Elan, Soul Marshal">
+      <type>Hero</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Gain a Soul Gem.&lt;br /&gt;Draw a card.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="The All-Seeing Eye">
+      <type>Construct</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Once per turn, you may draw a card.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Ulu, Askara Prince">
+      <type>Hero</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Copy the effect of a Hero played this turn. This effect cannot be copied.&lt;hr /&gt;Energize (e:2): Copy the chosen effect an additional time.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Oziah, Judge of Logos">
+      <type>Hero</type>
+      <cost>9</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <honor>5</honor>
+      <text>While this is in the center row, you may acquire this without paying its cost if you have gained (e:7) or more this turn.&lt;br /&gt;Defeat all Monsters in the center row without paying their costs.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Leotan&apos;s Familiar">
+      <type>Hero</type>
+      <cost>1</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Gain (r:1).&lt;hr /&gt;Energize (e:1): Gain (h:2).</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Lifebound Initiate">
+      <type>Hero</type>
+      <cost>1</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Gain (r:1) and (h:1).</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Great-Omen Raven">
+      <type>Hero</type>
+      <cost>2</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Name a card. Reaveal the top card of your deck and put it into your hand. If it is the named card, gain (h:3).</text>
+      <set>RotF</set>
+    </cardName>
+    <cardName name="Spider Witch">
+      <type>Hero</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain (h:2).&lt;hr /&gt;Unite: Gain a Soul Gem. (Gain this effect once if you play or have played another Lifebound Hero this turn.)</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Everbloom">
+      <type>Construct</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Once per turn, gain (h:1).</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Runic Lycanthrope">
+      <type>Hero</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Gain (r:2).&lt;br /&gt;If you have played another Lifebound Hero this turn, gain (p:2).</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Leprechaun">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain (r:2). Acquire a Pot of Gold from the End of the Rainbow or from another player's control.</text>
+      <set>LTP</set>
+    </cardName>
+    <cardName name="Honey Siren">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>2</honor>
+      <text>FATE: When this enters the center row, each player may put a Hero from their discard pile on top of their deck.&lt;hr /&gt;Gain (r:2). The next time you acquire a Hero this turn, you may put it on top of your deck.</text>
+      <set>Sos</set>
+    </cardName>
+    <cardName name="Lotus Siren">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain (r:2).&lt;br /&gt;Whenever you acquire a Hero or Treasure card, gain (h:1). (Gain (h:1) for each card acquired.)</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Beast Staff">
+      <type>Construct</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Once per turn, gain (p:1).&lt;br /&gt;Once per turn, you may pay (r:1) to reveal the top card of your deck. Gain (h) equal to its (h) value.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Yggdrasil Staff">
+      <type>Construct</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Once per turn, gain (p:1).&lt;br /&gt;Once per turn, you may spend (r:4) to gain (h:3).</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Starchild">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain (r:1) and (h:1).&lt;br /&gt;Draw a card.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Lifebound Muse">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Acquire a Hero with cost (r:4) or less without paying its cost.&lt;hr /&gt;Energize (e:2): Instead, acquire any Hero without paying its cost.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Stone Circle">
+      <type>Construct</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>4</honor>
+      <text>FATE: When this enters the center row, each player may acquire a Mystic. Put it on top of their deck.&lt;hr /&gt;Once per turn, when you acquire a Hero, you may put it on top of your deck.</text>
+      <set>RotF</set>
+    </cardName>
+    <cardName name="Stone Circle Elder">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Acquire a Hero with cost (r:5) or less without paying its cost. Put it on top of your deck. If the current Event is Lifebound, draw a card.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Lionheart">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Gain (h:3). Unite: Draw a card. (Gain this effect once if you play or have played another Lifebound Hero this turn.)</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Loamspeaker Druid">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>2</honor>
+      <text>FATE: When this enters the center row, for each Treasure under this, add (h:10) to the Honor pool.&lt;hr /&gt;Gain (r:3).</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Snapdragon">
+      <type>Construct</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Once per turn, gain (r:1).&lt;br /&gt;The first time you play a Lifebound Hero each turn, gain (h:1).</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Pathwarden">
+      <type>Hero</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Gain (r:2).&lt;br /&gt;You may spend (r) as though it was (p) this turn.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Sabre, the Moonlit">
+      <type>Hero</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Gain (r:1). Gain (h:1). Gain (p:1). Draw a card.&lt;hr /&gt;Unite: Gain (r:1). Gain (h:1), Gain (p:1). Draw a card.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Oras, the Redeemer">
+      <type>Hero</type>
+      <cost>7</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>4</honor>
+      <text>Gain (r:4). Each time you acquire a Hero from the center row this turn, gain (h) equal to its (h) value.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Cetra, Guide of Ogo">
+      <type>Hero</type>
+      <cost>8</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <honor>4</honor>
+      <text>Acquire all Heroes in the center row without paying their costs. Put them on top of your deck in any order.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="New Event">
+      <type>Event</type>
+      <text>Replace the Current Event.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Energy Shard">
+      <type>Treasure</type>
+      <text>Gain (e:1). Draw a card.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Battery Monk">
+      <type>Hero</type>
+      <cost>2</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>1</honor>
+      <text>You may pay (r:1) less the next time you acquire a Construct this turn.&lt;br /&gt;Draw a card.</text>
+      <set>RotF</set>
+    </cardName>
+    <cardName name="Void Initiate">
+      <type>Hero</type>
+      <cost>1</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Gain (r:1).&lt;br /&gt;You may banish a card in your hand or discard pile.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Deathsworn Warrior">
+      <type>Hero</type>
+      <cost>1</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>1</honor>
+      <text>FATE: Each player may banish a card from their hand or discard pile.&lt;hr /&gt;Gain (p:1).&lt;br /&gt;You may banish a card in your hand or discard pile. Then, you may banish this to banish a second card in your hand or discard pile.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Soulshaper">
+      <type>Hero</type>
+      <cost>2</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>1</honor>
+      <text>You may banish this or another card in your hand. If you do, gain a Soul Gem. If the current Event is Void, you may banish a card in your discard pile to gain a Soul Gem instead.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Brazer Drone">
+      <type>Hero</type>
+      <cost>2</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Gain (r:1).&lt;br /&gt;You may return a Construct from your discard pile to your hand.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Scrap Flinger">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain (p:2).&lt;br /&gt;You may destroy a Construct you control. If you do, gain an additional (p:2).</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Kor, the Ferromancer">
+      <type>Hero</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain (p:2).&lt;br /&gt;Draw a card if you control 2 or more Constructs.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Tinkering Monk">
+      <type>Hero</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain (r:2). You may have each player gain (r) equal to the number of Mechana Constructs they control</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Burrower Mark II">
+      <type>Construct</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Once per turn, when you put a Mechana Construct into play (including this one), draw a card.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Synchronizer">
+      <type>Construct</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Once per turn, when you play a Mechana Construct (including this one), gain (r:1).</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Firestorm Effigy">
+      <type>Monster</type>
+      <cost>4</cost>
+      <honor>3</honor>
+      <text>Reward: Gain (h:3). You may banish a card in your hand or discard pile.&lt;hr /&gt;Energize (e:1): You may banish an additional card in your hand or discard pile.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Lagoon Troll">
+      <type>Monster</type>
+      <cost>3</cost>
+      <honor>2</honor>
+      <text>Reward: Gain (h:2). Draw a card.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Sea Tyrant">
+      <type>Monster</type>
+      <cost>5</cost>
+      <honor>5</honor>
+      <text>Reward: Gain (h:5). If an opponent has more than one Construct, that player must destroy all but one Construct he controls.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Samael&apos;s Little Helper">
+      <type>Monster</type>
+      <cost>1</cost>
+      <honor>1</honor>
+      <text>Reward: Gain (h:1). Choose a player and put this in that player's discard pile.&lt;br /&gt;While in a player's deck, this is a Hero with, &quot;Gain (p:1) for each Samael's Little Helper you play or have played this turn (including this one).&quot;</text>
+      <set>SCTP</set>
+    </cardName>
+    <cardName name="Serpent Siren">
+      <type>Monster</type>
+      <cost>2</cost>
+      <honor>1</honor>
+      <text>Reward: Gain (h:1).&lt;hr /&gt;Trophy: You may banish this to gain (e:1).</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Growmites">
+      <type>Monster</type>
+      <cost>3</cost>
+      <honor>2</honor>
+      <text>Reward: (h:2).&lt;hr /&gt;Ongoing Trophy: When you defeat another Growmites, gain (h:2).</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Mephit">
+      <type>Monster</type>
+      <cost>3</cost>
+      <honor>2</honor>
+      <text>Reward: Gain (h:2). You may banish a card in the center row.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Raging Ursine">
+      <type>Monster</type>
+      <cost>3</cost>
+      <honor>3</honor>
+      <text>Reward: Gain (h:3).&lt;hr /&gt;Energize (e:2): Gain (r:2).</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Ravenous Gorph">
+      <type>Monster</type>
+      <cost>3</cost>
+      <honor>3</honor>
+      <text>FATE: When this enters the center row, banish all cards adjacent to it.&lt;hr /&gt;Reward: Gain (h:3) You may banish a card that was adjacent to this.</text>
+      <set>RotF</set>
+    </cardName>
+    <cardName name="Corrosive Widow">
+      <type>Monster</type>
+      <cost>4</cost>
+      <honor>3</honor>
+      <text>Reward: Gain (h:3). Each opponent must destroy a Construct he controls.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Sordid Asp">
+      <type>Monster</type>
+      <cost>3</cost>
+      <honor>1</honor>
+      <text>Reward: Gain (h:1), then steal (h:2) from an opponent with the most (h) if they have more than you.</text>
+      <set>RotF</set>
+    </cardName>
+    <cardName name="Minotaur">
+      <type>Monster</type>
+      <cost>4</cost>
+      <honor>3</honor>
+      <text>Reward: Gain (h:3).&lt;hr /&gt;Trophy: You may banish this to draw a card.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Mistake of Creation">
+      <type>Monster</type>
+      <cost>4</cost>
+      <honor>4</honor>
+      <text>Reward: Gain (h:4). You may banish a card in the center row andor a card in your discard pile.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Nothing Man">
+      <type>Monster</type>
+      <cost>4</cost>
+      <honor>3</honor>
+      <text>Reward: (h:3).&lt;hr /&gt;Trophy: Banish this to gain a Soul Gem.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Mordant Widow">
+      <type>Monster</type>
+      <cost>5</cost>
+      <honor>4</honor>
+      <text>Reward: Gain (h:4). For each opponent, you choose and destroy a Construct they control.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Constricting Horror">
+      <type>Monster</type>
+      <cost>5</cost>
+      <honor>4</honor>
+      <text>Reward: Gain (h:4). Reveal cards from the center deck until you reveal a Hero. Acquire that Hero without paying its cost and banish each other card revealed this way.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Noxious Soul">
+      <type>Monster</type>
+      <cost>5</cost>
+      <honor>4</honor>
+      <text>Reward: Gain (h:4). Each opponent must discard a card at random from their hand.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Polaris Demon">
+      <type>Monster</type>
+      <cost>5</cost>
+      <honor>5</honor>
+      <text>Reward: Gain (h:5). Choose one: Destroy all even cost Constructs opponents control or destroy all odd cost Constructs opponents control.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Wind Tyrant">
+      <type>Monster</type>
+      <cost>5</cost>
+      <honor>3</honor>
+      <text>Reward: Gain (h:3) and (r:3).</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Mudfin Angler">
+      <type>Monster</type>
+      <cost>6</cost>
+      <honor>5</honor>
+      <text>Gain (h:5). Choose an opponent and name a card. The chosen opponent reveals their hand and you put any of the named card into your hand.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Tarik, the Trickster">
+      <type>Monster</type>
+      <cost>6</cost>
+      <honor>5</honor>
+      <text>Reward: Gain (h:5). You may choose a Hero in the center row and copy its effect.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Twisted Tyrant">
+      <type>Monster</type>
+      <cost>6</cost>
+      <honor>6</honor>
+      <text>Reward: Gain (h:6).&lt;hr /&gt;Energize (e:3): Draw three cards.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Rat King">
+      <type>Monster</type>
+      <cost>6</cost>
+      <honor>4</honor>
+      <text>FATE: When this enters the center row, put a Giant Rat on every other card in the center row.&lt;hr /&gt;Reward: Gain (h:4) and defeat all the Gaint Rats in the center row.</text>
+      <set>RKTP</set>
+    </cardName>
+    <cardName name="Rat Queen">
+      <type>Monster</type>
+      <cost>6</cost>
+      <honor>4</honor>
+      <text>FATE: When this enters the center row shuffle all other cards not named Giant Rat in the center row and return them face down. Place a Giant Rat on each. When a Giant Rat leaves the center row, turn the card underneath it face-up.&lt;hr /&gt;Reward: Gain (h:4) and defeat all Giant Rats in the center row.</text>
+      <set>RQTP</set>
+    </cardName>
+    <cardName name="Protean Sea Slug">
+      <type>Monster</type>
+      <cost>6</cost>
+      <honor>5</honor>
+      <text>Reward: Gain (h:5). Each opponent destroys all Constructs they control.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Terrus, Paragon of Strife">
+      <type>Monster</type>
+      <cost>7</cost>
+      <honor>5</honor>
+      <text>Reward: Gain (h:5). Each opponent discards a random card from their hand. You may choose a card discarded this way and put it in your hand.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Akam, the Genie">
+      <type>Monster</type>
+      <cost>7</cost>
+      <honor>3</honor>
+      <text>Reward: (h:3).&lt;hr /&gt;Ongoing Trophy: Put three Wish counters on Akam. Once per turn, you may remove a Wish counter to gain (r:2) or (p:2). When Akam has no Wish counters, banish it.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Herald of Doom">
+      <type>Monster</type>
+      <cost>8</cost>
+      <honor>6</honor>
+      <text>Reward: Gain (h:6). Acquire or defeat a card in the center row without paying its cost.&lt;hr /&gt;Energize (e:7): Instead, acquire or defeat all cards in the center row without paying their costs.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Kythis, Rebel Godling">
+      <type>Monster</type>
+      <cost>8</cost>
+      <honor>8</honor>
+      <text>Reward: (h:8).&lt;hr /&gt;Ongoing Trophy: Once per turn, gain a Soul Gem.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Nemesis">
+      <type>Monster</type>
+      <cost>8</cost>
+      <honor>6</honor>
+      <text>FATE: When this enters the center row, banish the current event.&lt;hr /&gt;Reward: Gain (h:6). Choose up to three Trophy Monsters from the Void and put them into play under your control.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Ender of Days">
+      <type>Monster</type>
+      <cost>10</cost>
+      <honor>10</honor>
+      <text>Reward: Gain (h:10). Remove all (h) from the (h) pool.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Recyclicrab">
+      <type>Construct</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>3</honor>
+      <text>While this is in your discard pile, when you play a Mechana Construct, you may return this from your discard pile to your hand.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Deep Drone">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain (r:2). Put the next Construct you acquire this turn directly into play.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Energy Monk">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Gain (p:2).&lt;br /&gt;You may return a Construct you control to your hand.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Deathseeker">
+      <type>Hero</type>
+      <cost>2</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Gain (p:2). If this is banished from your hand or discard pile, gain (h:3).</text>
+      <set>RotF</set>
+    </cardName>
+    <cardName name="Hedron Pyromaniac">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain (r:2). You may destroy a Construct you control to gain a Soul Gem.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Personal Wormhole">
+      <type>Construct</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>4</honor>
+      <text>Once per turn, when you play a Mechana Construct (including this one), you may banish a card in your hand or discard pile.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Reactor Monk">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain (r:2). You pay (r:1) less the next time you acquire a Construct this turn.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Cognition Courier">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Gain (r:2).&lt;hr /&gt;Energize: You pay (r:1) less the next time you acquire a Construct this turn for each (e) you have gained this turn.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Portabillet">
+      <type>Construct</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>5</honor>
+      <text>Once per turn, when you play a Mechana Construct (including this one), draw a card.&lt;hr /&gt;Energize (e:5): Once this turn, draw a card.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Driller Mark IV">
+      <type>Construct</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>6</honor>
+      <text>Once per turn, when you play a Mechana Construct (including this one), gain a Soul Gem.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="The Grand Design">
+      <type>Construct</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>6</honor>
+      <text>Once per turn, gain (r:2). You may spend it only to acquire Mechana Constructs.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Socket Altar">
+      <type>Construct</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>6</honor>
+      <text>Once per turn, when you put a Mechana Construct into play (including this one), gain (r:2).</text>
+      <set>RotF</set>
+    </cardName>
+    <cardName name="Dream Machine">
+      <type>Construct</type>
+      <cost>7</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>7</honor>
+      <text>FATE: When this enters the center row, each player may return a construct they control to their hand.&lt;hr /&gt;Once per turn, you may return another Mechana Construct you control to your hand.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Hedron Link Device">
+      <type>Construct</type>
+      <cost>7</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>7</honor>
+      <text>You may treat all Constructs as Mechana Constructs.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Weapon 303V">
+      <type>Construct</type>
+      <cost>8</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>8</honor>
+      <text>Once per turn, when you play a Mechana Construct (including this one), gain (p:3).</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="P.R.I.M.E.">
+      <type>Hero</type>
+      <cost>7</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Acquire a Construct or gain (r:3).&lt;br /&gt;When you play a Mechana Construct, you may return this from your discard pile you your hand. (Cards played this turn do not go to your discard pile until the end of the turn.)</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Assimilation Plant">
+      <type>Construct</type>
+      <cost>9</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <honor>9</honor>
+      <text>Your Mechana Heroes are Constructs instead. You may use their abilities once per turn. If this leaves play, put all of your Mechana Heroes in play into your discard pile.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Spike Vixen">
+      <type>Hero</type>
+      <cost>2</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Gain (p:1).&lt;br /&gt;Draw a card.</text>
+      <set>DU</set>
+    </cardName>
+    <cardName name="Darkwalker">
+      <type>Hero</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Gain (p:2).&lt;hr /&gt;Energize (e:1): You may banish a card in your hand or discard pile.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Canopic Jar">
+      <type>Construct</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Once per turn, gain (p:1). Once per turn, when you defeat a Monster in center row, gain (r:1).</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Nethersnare">
+      <type>Construct</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Once per turn, if there is no Monster under this, you may put a Monster from the center row under it. You may defeat Monsters under this as though they were in the center row. If this leaves play, put any Monster under this on top of the center deck.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Shadow Star">
+      <type>Construct</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Once per turn, gain (p:1).</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Arbiter of Fate">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>2</honor>
+      <text>FATE: When this enters the center row, each player may banish a card from their hand or discard pile.&lt;hr /&gt;Draw a card.&lt;br /&gt;You may banish a card in your hand or discard pile.</text>
+      <set>RotF</set>
+    </cardName>
+    <cardName name="Arbiter of the Precipice">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>1</honor>
+      <text>Draw two cards. Banish a card in your hand.</text>
+      <set>CotG</set>
+    </cardName>
+    <cardName name="Tome of Erabus">
+      <type>Construct</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>2</honor>
+      <text>Once per turn, gain (e:1).</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Shadowcaster">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Draw a card. You may banish a card in your hand. If you do, draw an additional card. If the current event is Void, you may also banish a card is your discard pile.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Void Avenger">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Gain (p:3).&lt;br /&gt;The next time you defeat a Monster in the center row this turn, gain a Soul Gem.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Voidfeeder">
+      <type>Construct</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Once per turn, gain (p:1).&lt;hr /&gt;Energize (e:2): Once this turn, you may banish a card in your hand or discard pile.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Soul Collector">
+      <type>Construct</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>4</honor>
+      <text>Once per turn, add a Soul counter to this if you've defeated a Monster in the center row.&lt;br /&gt;Once per turn, gain (p) equal to the number of Soul counters on this.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Penumbral Edge">
+      <type>Construct</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Once per turn, gain (p:2). Gain an additional (p:2) if you control Umbral Edge.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Umbral Edge">
+      <type>Construct</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Once per turn, gain (p:2). Gain an additional (p:2) if you control Penumbral Edge.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Void Mesmer">
+      <type>Hero</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Gain (p:2).&lt;br /&gt;The next time you defeat a Monster this turn, you may acquire a Hero of equal or lesser cost without paying its cost.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Nyxian Spiritcaster">
+      <type>Hero</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Gain (e:3).&lt;br /&gt;Draw a card.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Cobra, the Sordid">
+      <type>Hero</type>
+      <cost>7</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>3</honor>
+      <text>Gain (p:3). The next time you defeat a Monster this turn, you may take its (h) reward from the player with the most (h) instead of from the (h) pool. Choose one in case of a tie.</text>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Illiya the Demonborn">
+      <type>Hero</type>
+      <cost>7</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>4</honor>
+      <text>Gain (p:4).&lt;hr /&gt;Energize: Gain an additional (p:1) for each (e) you have gained this turn.</text>
+      <set>RoV</set>
+    </cardName>
+    <cardName name="Emri, Soulslayer">
+      <type>Hero</type>
+      <cost>8</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>4</honor>
+      <text>FATE: Each player may banish up to two cards from their hand and/or discard pile.&lt;hr /&gt;Gain (p:4). You may banish up to two cards from your hand andor discard pile. Gain an additional (p:1) for each card banished from your hand this way.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Orb of Nyx">
+      <type>Construct</type>
+      <cost>8</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <honor>5</honor>
+      <text>Once per turn, gain (p:3).&lt;br /&gt;When you defeat a Monster in the center row, gain a Soul Gem.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Cackling Jackal">
+      <type>Monster</type>
+      <cost>3</cost>
+      <honor>2</honor>
+      <text>Reward: Gain (h:2).&lt;hr /&gt;Trophy: Banish this to gain (r:1).</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Samael the Fallen">
+      <type>Monster</type>
+      <cost>8</cost>
+      <honor>8</honor>
+      <text>Unbanishable.&lt;br /&gt;Reward: Gain (h:8). Place this face up in front of you. For the rest of the game, when you defeat a Monster in the center row or the Void, you may acquire it. Monsters in your deck are considered Heroes. When you play them, you gain their (p).</text>
+      <set>RotF</set>
+    </cardName>
+    <cardName name="Moment of Clarity">
+      <type>Event</type>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <text>When a player acquires an Enlightened card, that player may draw a card.&lt;hr /&gt;Event Trophy: Banish a card in your hand. If you do, acquire a Mystic without paying its cost. Put it into your hand.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="The Great Eclipse">
+      <type>Event</type>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <text>When a player acquires a Lifebound card, that player may put it on top of his deck.&lt;hr /&gt;Event Trophy: Name a Hero. That Hero is also Lifebound this turn.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Cosmic Protocol">
+      <type>Event</type>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <text>When a player acquires a Mechana Construct, that player may put it directly into play.&lt;hr /&gt;Event Trophy: You pay (r:2) less to acquire your next Mechana Construct this turn.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Annihilation">
+      <type>Event</type>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <text>When a player acquires a Void card, that player may banish a card in his hand or discard pile.&lt;hr /&gt;Event Trophy: Gain (p:1).</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Souls Unbound">
+      <type>Event</type>
+      <factions>
+        <faction>Monster</faction>
+      </factions>
+      <text>Monsters in the center row are Unbanishable.&lt;hr /&gt;Event Trophy: Discard a card. If you do, gain a Soul Gem.</text>
+      <set>IH</set>
+    </cardName>
+    <cardName name="Arha Rising">
+      <type>Event</type>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <text>Once during their turn, when a player discards any number of cards, they may return one of them to their hand.&lt;hr /&gt;Event Trophy: Draw a card.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Ogo Rising">
+      <type>Event</type>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <text>The first Hero played each turn is also a Lifebound hero.&lt;hr /&gt;Event Trophy: Gain (r:1).</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Hedron Rising">
+      <type>Event</type>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <text>All Constructs are also Mechana Constructs.&lt;hr /&gt;Event Trophy: When a Construct you control would be destroyed, you may prevent it from being destroyed.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Void Rising">
+      <type>Event</type>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <text>Once per turn, when a player defeats a Monster in the center row, that player gains (h:1).&lt;hr /&gt;Event Trophy: Banish a card in your hand or discard pile.</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Rise of the Cult">
+      <type>Event</type>
+      <factions>
+        <faction>Monster</faction>
+      </factions>
+      <text>Cultists and Fanatics have (p:+1) and their rewards have (h:+1).&lt;hr /&gt;Event Trophy: Gain (h:1).</text>
+      <set>SoS</set>
+    </cardName>
+    <cardName name="Disciple of Oziah">
+      <type>Hero</type>
+      <cost>1</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <text>While this is in your hand, if you have played another Enlightened Hero this turn, transform this into Scion on Oziah.&lt;br /&gt;Defeat a Monster with cost (p:3) or less without paying its cost.&lt;hr /&gt;Defeat a Monster with cost (p:5) or less without paying its cost.&lt;br /&gt;(h:2)</text>
+      <honor>1</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Scryer of the Lidless Eye">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <text>Draw 2 cards, then discard a card. If the discarded card is Enlightened, return it to your hand.</text>
+      <honor>2</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Forgotten Scripture">
+      <type>Construct</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <text>If you have played two or more Enlightened Heroes this turn, transform this into Mantra of True Sight.&lt;hr /&gt;Once per turn, you may draw a card.&lt;br /&gt;(h:4)</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Sage of Lucid Dreams">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <text>Once this turn, banish a card in your hand. If you do, acquire a Hero with (h) value up to one more than that of the banished card and put it in your hand.&lt;br /&gt;Multi-Unite: You may repeat this.</text>
+      <honor>2</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Eye of Potential">
+      <type>Construct</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <text>Once per turn, you may banish a card in your hand. If you do, acquire a Mystic or Heavy Infantry without paying its cost and put it in your hand.</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Vir, Ascetic Master">
+      <type>Hero</type>
+      <cost>8</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <text>While this is in your hand, if you have played a Hero of every faction this turn, transform this into Vir, Ephemeral Guru.&lt;br /&gt;Acquire a Hero in the center row without paying its cost and put it in your hand.&lt;hr /&gt;Acquire all Heroes in the center row without paying their costs and put them in your hand.&lt;br /&gt;(h:7)</text>
+      <honor>6</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Disciple of Cetra">
+      <type>Hero</type>
+      <cost>1</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <text>While this is in your hand, if you hve played another Lifebound Hero this turn, transform this into Scion of Cetra.&lt;br /&gt;Gain (r:1) and (h:1).&lt;hr /&gt;Gain (r:2) and (h:2).&lt;br /&gt;(h:2)</text>
+      <honor>1</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Everbloom Clique">
+      <type>Hero</type>
+      <cost>2</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <text>Gain (h:2).&lt;br /&gt;Multi-Unite: Gain (h:1).</text>
+      <honor>1</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Druid's Wreath">
+      <type>Construct</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <text>If you have played two or more Lifebound Heroes this turn, transform this into Verdant Crown.&lt;hr /&gt;Once per turn, gain (h:2).</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Snapdragon Witch">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <text>Gain (h:1).&lt;br /&gt;Draw a card.&lt;br /&gt;If you have more (h) than every other player, draw an additional card.</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Remus, Pack Guardian">
+      <type>Hero</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <text>While this is in your hand, if you have gained (h:3) or more this turn, transform this into Remus, Wild Emissary.&lt;br /&gt;Gain (r:3).&lt;hr /&gt;Gain (r:3).&lt;br /&gt;You may spend (r) as thought it was (p) this turn.</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Cetra, Matron of Stars">
+      <type>Hero</type>
+      <cost>7</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <text>Once this turn, acquire a Hero without paying its cost. Put it on top of your deck.&lt;br /&gt;Multi-Unite: You may repeat this.</text>
+      <honor>4</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Disciple of Euloth">
+      <type>Hero</type>
+      <cost>1</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <text>While this is in your hand, if you have played another Mechana Hero this turn, transform this into Scion of Euloth.&lt;br /&gt;Gain (r:1) and (p:1).&lt;hr /&gt;Gain (r:2) and (p:2).&lt;br /&gt;(h:2)</text>
+      <honor>1</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Matron of Discovery">
+      <type>Hero</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <text>Gain (r:2).&lt;br /&gt;Multi-Unite: Gain (r:1).</text>
+      <honor>2</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Secluded Laboratory">
+      <type>Construct</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <text>If you have played two or more Mechana Heroes this turn, transform this into Zero Point Reactor.&lt;hr /&gt;Once per turn, gain (r:2).&lt;br /&gt;(h:5)</text>
+      <honor>4</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Alset, Monk Prodigy">
+      <type>Hero</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <text>While this is in your hand, if you control two or more Constructs, transform this into Alset, Reactor Savant.&lt;br /&gt;Gain (r:3).&lt;hr /&gt;Gain (r:4).&lt;br /&gt;When you acquire a Construct this turn, you may put it into play.&lt;br /&gt;(h:4)</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Disciple of Emri">
+      <type>Hero</type>
+      <cost>1</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <text>While this is in your hand, if you have played another Void Hero this turn, transform this into Scion of Emri.&lt;br /&gt;Gain (p:1).&lt;br /&gt;You may banish a card in your discard pile.&lt;hr /&gt;Gain (p:3).&lt;br /&gt;You may banish a card in your discard pile.&lt;br /&gt;(h:2)</text>
+      <honor>1</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Deathdealer Noble">
+      <type>Hero</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <text>Gain (p:2).&lt;br /&gt;Multi-Unite: Gain (p:1).</text>
+      <honor>2</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Initiate&apos;s Gauntlets">
+      <type>Construct</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <text>If you have played two or more Void Heroes this turn, transform this into Clutch of Darkness.&lt;hr /&gt;Once per turn, gain (p:2).&lt;br /&gt;(h:4)</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Black Watch Exemplar">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <text>Gain (p:3).&lt;br /&gt;Multi-Unite: You may banish a card in your discard pile.</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Emri, the Unmaker">
+      <type>Hero</type>
+      <cost>7</cost>
+      <factions>
+        <faction>Void</faction>
+      </factions>
+      <text>While this is in your hand, if there are 8 or more Monsters in the void, transform this into Emri, Demonsbane.&lt;br /&gt;Gain (p:4).&lt;hr /&gt;Gain (p:5).&lt;br /&gt;This turn, you may defeat Monsters in the void as though they were in the center row. Put Monsters defeated this way on the bottom of the center deck.&lt;br /&gt;(h:6)</text>
+      <honor>5</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Foundation Burrower">
+      <type>Monster</type>
+      <cost>2</cost>
+      <text>Reward: Gain (h:1). You may banish a card in the center row.</text>
+      <honor>1</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Sower of Discontent">
+      <type>Monster</type>
+      <cost>3</cost>
+      <text>Reward: Gain (h:2). Name a faction. Gain an additional (h:1) for each Hero of that faction you have played this turn.</text>
+      <honor>2</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Borderland Nihilist">
+      <type>Monster</type>
+      <cost>3</cost>
+      <text>Reward: Transform this into Borderland Mercenary and acquire it.&lt;hr /&gt;Draw a card.&lt;br /&gt;Name a faction. This Hero counts as that faction this turn.&lt;br /&gt;(h:2)</text>
+      <honor></honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Terrorizing Fiend">
+      <type>Monster</type>
+      <cost>4</cost>
+      <text>Reward: gain (h:2). Draw two cards.</text>
+      <honor>2</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Wailing Spectre">
+      <type>Monster</type>
+      <cost>5</cost>
+      <text>Reward: gain (h:4). Draw may banish up to two cards in your discard pile.</text>
+      <honor>2</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Sower of Betrayal">
+      <type>Monster</type>
+      <cost>6</cost>
+      <text>Reward: Gain (h:3). Name a faction. Gain an additional (h:2) for each Hero of that faction you have played this turn.</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Adayu the Tormented">
+      <type>Monster</type>
+      <cost>7</cost>
+      <text>Reward: Transform this into Adayu the Serene and acquire it.&lt;hr /&gt;This hero counts as all factions.&lt;br /&gt;Gain (r:1), (p:1), and (h:1). Draw a card.&lt;br /&gt;Multi-Unite. Gain (r:1) for each Mechana Hero, (p:1) for each void Hero, (h:1) for each Lifebound Hero, and draw a card for each Enlightened Hero you play or have played this turn.&lt;br /&gt;(h:6)</text>
+      <honor></honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Timestream Seer">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Enlightened</faction>
+        <faction>Lifebound</faction>
+      </factions>
+      <text>Gain (r:2).&lt;br /&gt;You may banish a card in the center row.</text>
+      <honor>2</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Canon Templar">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Enlightened</faction>
+        <faction>Mechana</faction>
+      </factions>
+      <text>Gain (r:2).&lt;br /&gt;You may defeat a Monster with (p) cost less than or equal to the (r) cost of a Construct you control.</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Voidforged Paladin">
+      <type>Hero</type>
+      <cost>5</cost>
+      <factions>
+        <faction>Enlightened</faction>
+        <faction>Void</faction>
+      </factions>
+      <text>Gain (p:2).&lt;br /&gt;The first time you defeat a Monster in the center row this turn, draw two cards.</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Wildgear Druid">
+      <type>Hero</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Lifebound</faction>
+        <faction>Mechana</faction>
+      </factions>
+      <text>Gain (r:2).&lt;br /&gt;If you control two or more Constructs, gain (h:2).</text>
+      <honor>2</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Deathbound Druid">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Lifebound</faction>
+        <faction>Void</faction>
+      </factions>
+      <text>Gain (h:3).&lt;br /&gt;You may banish a card in your discard pile.</text>
+      <honor>3</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="Nightmare Delver">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Mechana</faction>
+        <faction>Void</faction>
+      </factions>
+      <text>Gain (r:2).&lt;br /&gt;If you control two or more Consturcts, you may banish a card in your discard pile.</text>
+      <honor>4</honor>
+      <set>RU</set>
+    </cardName>
+    <cardName name="The Looking Glass">
+      <type>Construct</type>
+      <cost>3</cost>
+      <factions>
+        <faction>Enlightened</faction>
+      </factions>
+      <text>You may acquire or defeat cards under this as though they were in the center row.&lt;br /&gt;If there is no card under this, reveal the top card of the center deck and put it under this.&lt;br /&gt;If this leaves play, banish all cards under this.</text>
+      <honor>2</honor>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Ogo Tracker">
+      <type>Hero</type>
+      <cost>4</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <text>Gain (r:2).&lt;br /&gt;Once per turn, while Ogo Tracker is in your discard pile, gain (r:1).</text>
+      <honor>2</honor>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Eye of the Serpent">
+      <type>Construct</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Lifebound</faction>
+      </factions>
+      <text>If you would gain (r) or (h) from a Lifebound Hero, gain twice that amount instead.</text>
+      <honor>4</honor>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="Hedron Flare">
+      <type>Construct</type>
+      <cost>6</cost>
+      <factions>
+        <faction>Mechana</faction>
+      </factions>
+      <text>Once per turn, you may acquire a Mechana Hero in the center row without paying its cost.</text>
+      <honor>6</honor>
+      <set>Promo</set>
+    </cardName>
+    <cardName name="x">
+      <type>x</type>
+      <cost>x</cost>
+      <factions>
+        <faction>x</faction>
+      </factions>
+      <text>x</text>
+      <honor>x</honor>
+      <set>x</set>
+    </cardName>
+  </cardNames>
+  <cards>
+    <card>
+      <name>Disciple of Oziah</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Nook Hound</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Seer of the Forked Path</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Temple Librarian</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Elder Skeptic</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>The Looking Glass</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Askara of Fate</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Askara of Souls</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Forgotten Scripture</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Righteous Templar</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Sage of Lucid Dreams</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Scryer of the Lidless Eye</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Dreamer&apos;s Glass</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Monk of the Lidless Eye</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Tablet of Time&apos;s Dawn</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Tablet of the Dreamer</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Temple Guardian</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Tower Askara</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Elan, Soul Marshal</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Eye of Potential</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Ulu, Askara Prince</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Disciple of Cetra</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Leotan&apos;s Familiar</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Everbloom Clique</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Everbloom</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Runic Lycanthrope</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Spider Witch</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Beast Staff</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Druid&apos;s Wreath</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Honey Siren</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Leprechaun</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Lifebound Muse</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Lotus Siren</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Ogo Tracker</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Starchild</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Loamspeaker Druid</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Snapdragon</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Snapdragon Witch</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Stone Circle Elder</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Eye of the Serpent</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Remus, Pack Guardian</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Sabre, the Moonlit</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Cetra, Matron of Stars</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Oras, the Redeemer</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Disciple of Euloth</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Battery Monk</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Brazer Drone</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Burrower Mark II</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Kor, the Ferromancer</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Matron of Discovery</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Recyclicrab</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Tinkering Monk</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Deep Drone</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Energy Monk</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Hedron Pyromaniac</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Personal Wormhole</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Scrap Flinger</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Secluded Laboratory</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Cognition Courier</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Portabillet</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Alset, Monk Prodigy</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Driller Mark IV</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Hedron Flare</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>The Grand Design</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Dream Machine</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Hedron Link Device</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>P.R.I.M.E.</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Weapon 303V</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Deathsworn Warrior</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Disciple of Emri</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Deathseeker</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Soulshaper</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Spike Vixen</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Darkwalker</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Deathdealer Noble</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Nethersnare</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Shadow Star</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Arbiter of the Precipice</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Canopic Jar</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Initiate&apos;s Gauntlets</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Tome of Erabus</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Black Watch Exemplar</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Shadowcaster</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Void Avenger</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Voidfeeder</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Nyxian Spiritcaster</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Soul Collector</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Void Mesmer</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Emri, the Unmaker</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Illiya the Demonborn</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Orb of Nyx</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Samael&apos;s Little Helper</name>
+      <quantity>3</quantity>
+    </card>
+    <card>
+      <name>Foundation Burrower</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Borderland Nihilist</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Cackling Jackal</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Lagoon Troll</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Raging Ursine</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Sordid Asp</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Corrosive Widow</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Firestorm Effigy</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Minotaur</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Mistake of Creation</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Nothing Man</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Terrorizing Fiend</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Constricting Horror</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Mordant Widow</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Noxious Soul</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Polaris Demon</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Sea Tyrant</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Wailing Spectre</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Wind Tyrant</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Mudfin Angler</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Protean Sea Slug</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Rat King</name>
+      <quantity>2</quantity>
+    </card>
+    <card>
+      <name>Sower of Betrayal</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Twisted Tyrant</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Akam, the Genie</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Adayu the Tormented</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Herald of Doom</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Kythis, Rebel Godling</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Samael the Fallen</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Ender of Days</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Moment of Clarity</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>The Great Eclipse</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Cosmic Protocol</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Annihilation</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Souls Unbound</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Arha Rising</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Ogo Rising</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Hedron Rising</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Void Rising</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Rise of the Cult</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Energy Shard</name>
+      <quantity>22</quantity>
+    </card>
+    <card>
+      <name>Timestream Seer</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Canon Templar</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Voidforged Paladin</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Wildgear Druid</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Deathbound Druid</name>
+      <quantity>1</quantity>
+    </card>
+    <card>
+      <name>Nightmare Delver</name>
+      <quantity>1</quantity>
+    </card>
+  </cards>
+  <changes>
+    <change>
+      <date>06/25/2014 15:16</date>
+      <add>
+        <card>Deathseeker</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Serpent Siren</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Mephit</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Cackling Jackal</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Samael the Fallen</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Moment of Clarity</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>The Great Eclipse</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Cosmic Protocol</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Annihilation</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Souls Unbound</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Arha Rising</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Ogo Rising</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Hedron Rising</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Void Rising</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Rise of the Cult</card>
+        <quantity>1</quantity>
+      </add>
+      <remove>
+        <card>Cobra, the Sordid</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>New Event</card>
+        <quantity>15</quantity>
+      </remove>
+      <remove>
+        <card>Energy Shard</card>
+        <quantity>5</quantity>
+      </remove>
+    </change>
+    <change>
+      <date>07/04/2014 01:32</date>
+      <add>
+        <card>Disciple of Oziah</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Scryer of the Lidless Eye</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Forgotten Scripture</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Sage of Lucid Dreams</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Eye of Potential</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Vir, Ascetic Master</card>
+        <quantity>1</quantity>
+      </add>
+      <remove>
+        <card>Prodigal</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Arha Sensei</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Elder Skeptic</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Arha Sanctuary</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Journeyman Sage</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Tower Askara</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>The All-Seeing Eye</card>
+        <quantity>1</quantity>
+      </remove>
+      <add>
+        <card>Disciple of Cetra</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Everbloom Clique</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Druid&apos;s Wreath</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Snapdragon Witch</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Remus, Pack Guardian</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Cetra, Matron of Stars</card>
+        <quantity>1</quantity>
+      </add>
+      <remove>
+        <card>Lifebound Initiiate</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Great-Omen Raven</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Yggdrasil Staff</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Lionheart</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Pathwarden</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Cetra, Guide of Ogo</card>
+        <quantity>1</quantity>
+      </remove>
+      <add>
+        <card>Disciple of Euloth</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Matron of Discovery</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Secluded Laboratory</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Alset, Monk Prodigy</card>
+        <quantity>1</quantity>
+      </add>
+      <remove>
+        <card>Socket Altar</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Reactor Monk</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Battery Monk</card>
+        <quantity>1</quantity>
+      </remove>
+      <add>
+        <card>Disciple of Emri</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Spike Vixen</card>
+        <quantity>1</quantity>
+        <set>RU</set>
+      </add>
+      <add>
+        <card>Deathdealer Noble</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Initiate&apos;s Gauntlets</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Black Watch Exemplar</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Emri, the Unmaker</card>
+        <quantity>1</quantity>
+      </add>
+      <remove>
+        <card>Spike Vixen</card>
+        <quantity>1</quantity>
+        <set>CotG</set>
+      </remove>
+      <remove>
+        <card>Deathseeker</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Penumbral Edge</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Umbral Edge</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Emri, Soulslayer</card>
+        <quantity>1</quantity>
+      </remove>
+      <add>
+        <card>Foundation Burrower</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Sower of Discontent</card>
+        <quantity>2</quantity>
+      </add>
+      <add>
+        <card>Borderland Nihilist</card>
+        <quantity>3</quantity>
+      </add>
+      <add>
+        <card>Terrorizing Fiend</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Mordant Widow</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Polaris Demon</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Wailing Spectre</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Sower of Betrayal</card>
+        <quantity>1</quantity>
+      </add>
+      <add>
+        <card>Adayu the Tormented</card>
+        <quantity>1</quantity>
+      </add>
+      <remove>
+        <card>Samael&apos;s Little Helper</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Serpent Siren</card>
+        <quantity>2</quantity>
+      </remove>
+      <remove>
+        <card>Lagoon Troll</card>
+        <quantity>1</quantity>
+      </remove>
+      <remove>
+        <card>Growmites</card>
+        <quantity>4</quantity>
+      </remove>
+      <remove>
+        <card>Mephit</card>
+        <quantity>2</quantity>
+      </remove>
+    </change>
+  </changes>
+</cube>

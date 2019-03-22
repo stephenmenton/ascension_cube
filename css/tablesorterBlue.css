@@ -1,0 +1,149 @@
+/* tables */
+table.tablesorter tbody tr.nonZero td {
+  background-color: #ff5252;
+}
+
+table.tablesorter {
+  font-family:arial;
+  background-color: #c2c2c2;
+  border: 1px solid #c2c2c2;
+  margin: 0px;
+  padding: 0px;
+  font-size: 8pt;
+  text-align: left;
+  caption-side: top;
+  border-collapse: collapse;
+}
+
+table.tablesorter thead, table.tablesorter tbody {
+  margin: 0px;
+  padding: 0px;
+}
+
+table.tablesorter thead tr th, table.tablesorter tfoot tr th, table.tablesorter tbody tr.repeated-header th {
+  background-color: #b2cfd2;
+  border: 1px solid #c2c2c2;
+  font-size: 8pt;
+  padding: 4px 22px 4px 4px;
+  white-space: nowrap;
+}
+
+table.tablesorter thead tr .header {
+  background-image: url(../images/blue/bg.gif);
+  background-repeat: no-repeat;
+  background-position: center right;
+  cursor: pointer;
+}
+
+table.tablesorter tbody tr {
+  background-color: #ffffff;
+}
+
+table.tablesorter tbody tr td {
+  color: #2a2a2a;
+  padding: 3px;
+  vertical-align: top;
+  border: 1px solid #c2c2c2;
+}
+
+table.tablesorter tbody tr.Enlightened {
+  background-color:#f5f5dc;
+}
+
+table.tablesorter tbody tr.Enlightened.odd {
+  background-color:#dcdcdc;
+}
+
+table.tablesorter tbody tr.Enlightened:hover, table.tablesorter tbody tr.Enlightened.odd hover {
+  background-color: #a9a9a9;
+}
+
+table.tablesorter tbody tr.Lifebound {
+  background-color: #bae397;
+}
+
+table.tablesorter tbody tr.Lifebound.odd {
+  background-color: #8aBd5f;
+}
+
+table.tablesorter tbody tr.Lifebound:hover, table.tablesorter tbody tr.Lifebound.odd hover {
+  background-color: #32cd32;
+}
+
+table.tablesorter tbody tr.Mechana {
+  background-color: #ffdbaa;
+}
+
+table.tablesorter tbody tr.Mechana.odd {
+  background-color: #d4a76a;
+}
+
+table.tablesorter tbody tr.Mechana:hover, table.tablesorter tbody tr.Mechana.odd hover {
+  background-color: #aa7939;
+}
+
+table.tablesorter tbody tr.Void {
+  background-color: rgb( 245, 230, 245 );
+}
+
+table.tablesorter tbody tr.Void.odd {
+  background-color: rgb( 225, 190, 225 );
+}
+
+table.tablesorter tbody tr.Void:hover, table.tablesorter tbody tr.Void.odd hover {
+  background-color: rgb( 200, 150, 200 );
+}
+
+table.tablesorter tbody tr.odd {
+  background-color:#e8e8e8;
+}
+
+table.tablesorter tbody tr:hover, table.tablesorter tbody tr.odd hover {
+  background-color: #d2d2d2;
+}
+
+table.tablesorter thead tr .headerSortUp {
+  background-image: url(../images/blue/asc.gif);
+}
+
+table.tablesorter thead tr .headerSortDown {
+  background-image: url(../images/blue/desc.gif);
+}
+
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+  background-color: #6ba9cc;
+}
+
+table.tablesorter tfoot tr {
+  color: #ffffff;
+  background-color: #626262;
+}
+
+table.tablesorter caption {
+  color: #2a2a2a;
+  background-color:#e2e2e2;
+  font-weight: bold;
+  text-align: left;
+  padding: 4px;
+  margin: 0px;
+  border: 1px solid #c2c2c2;
+}
+
+table.tablesorter tbody tr td.increase, table.tablesorter tfoot tr td.increase {
+  background-color: #078a06;
+  color: #ffffff;
+}
+
+table.tablesorter tbody tr td.decrease, table.tablesorter tfoot tr td.decrease {
+  background-color: #8a0706;
+  color: #ffffff;
+}
+
+td.left {
+  text-align: left;
+}
+
+td.right {
+  text-align: right;
+}
+
